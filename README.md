@@ -9,6 +9,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
+| [2090-k-radius-subarray-averages](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
+| [2090-k-radius-subarray-averages](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Prefix Sum
 |  |
 | ------- |

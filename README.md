@@ -12,6 +12,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [1652-defuse-the-bomb](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2090-k-radius-subarray-averages](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [3875-construct-uniform-parity-array-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +73,8 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->

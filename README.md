@@ -34,6 +34,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [2090-k-radius-subarray-averages](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +56,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
 |  |
 | ------- |

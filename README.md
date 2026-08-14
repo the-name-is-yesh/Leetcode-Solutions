@@ -6,6 +6,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -67,6 +68,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Stack
@@ -80,6 +82,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |

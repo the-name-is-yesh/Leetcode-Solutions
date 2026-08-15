@@ -7,6 +7,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -21,12 +22,14 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -41,6 +44,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table

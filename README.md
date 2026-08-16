@@ -7,6 +7,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |

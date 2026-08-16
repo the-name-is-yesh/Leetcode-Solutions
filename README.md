@@ -8,6 +8,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0015-3sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
@@ -144,4 +146,8 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 |  |
 | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

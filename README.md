@@ -17,6 +17,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0283-move-zeroes](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -63,6 +64,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -78,6 +80,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0409-longest-palindrome](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |

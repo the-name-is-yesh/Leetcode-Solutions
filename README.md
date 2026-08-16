@@ -32,6 +32,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -59,6 +60,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -71,6 +73,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |

@@ -6,6 +6,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -66,6 +67,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |

@@ -70,6 +70,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0424-longest-repeating-character-replacement](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -84,6 +85,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0424-longest-repeating-character-replacement](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1208-get-equal-substrings-within-budget](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Dynamic Programming
@@ -99,6 +101,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0283-move-zeroes](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0763-partition-labels](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0763-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +111,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0409-longest-palindrome](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0763-partition-labels](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |

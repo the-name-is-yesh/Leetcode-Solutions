@@ -16,6 +16,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0209-minimum-size-subarray-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -67,6 +68,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -189,4 +191,8 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

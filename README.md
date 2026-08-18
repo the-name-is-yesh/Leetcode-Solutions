@@ -31,6 +31,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [1652-defuse-the-bomb](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -77,6 +78,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [1208-get-equal-substrings-within-budget](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |

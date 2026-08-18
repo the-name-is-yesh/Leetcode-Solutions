@@ -22,6 +22,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -71,6 +72,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0238-product-of-array-except-self](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |

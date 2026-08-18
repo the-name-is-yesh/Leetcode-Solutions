@@ -34,6 +34,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [1695-maximum-erasure-value](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |

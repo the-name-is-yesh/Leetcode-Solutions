@@ -155,6 +155,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |

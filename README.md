@@ -9,6 +9,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0001-two-sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -155,11 +156,13 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0728-self-dividing-numbers](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |

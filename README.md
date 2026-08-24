@@ -30,6 +30,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [1480-running-sum-of-1d-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -164,6 +165,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0048-rotate-image](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |

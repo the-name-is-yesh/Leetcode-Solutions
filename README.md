@@ -142,6 +142,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Greedy
 |  |
@@ -215,5 +216,6 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

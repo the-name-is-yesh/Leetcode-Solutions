@@ -20,6 +20,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0303-range-sum-query-immutable](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -102,6 +103,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0409-longest-palindrome](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -144,6 +146,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Greedy
@@ -163,6 +166,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Math

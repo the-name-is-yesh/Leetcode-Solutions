@@ -24,6 +24,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1109-corporate-flight-bookings) |
@@ -144,6 +145,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0155-min-stack](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
@@ -162,6 +164,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |

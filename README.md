@@ -24,6 +24,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0525-contiguous-array](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0622-design-circular-queue](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -197,6 +198,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
@@ -228,4 +230,9 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0155-min-stack](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0560-subarray-sum-equals-k](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -203,6 +204,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -237,8 +239,10 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0155-min-stack](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 ## Linked List
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->

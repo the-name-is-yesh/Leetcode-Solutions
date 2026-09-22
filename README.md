@@ -129,6 +129,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | [0424-longest-repeating-character-replacement](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1208-get-equal-substrings-within-budget](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -159,6 +160,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 | ------- |
 | [0409-longest-palindrome](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0649-dota2-senate](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
@@ -201,6 +203,7 @@ My solutions to LeetCode problems, implemented in Python and C++, covering data 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/the-name-is-yesh/Leetcode-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
